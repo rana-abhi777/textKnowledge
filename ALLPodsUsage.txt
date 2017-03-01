@@ -1,0 +1,13 @@
+1. Kingfisher for caching the images for better use experience
+2. Alamofire and object mapper for API
+3. svprogressHUD for loader when loading the information from the server in case of API
+4. Nvactivityindicatorview for all type of activity indicators
+5. swiftyJSON used to better way of dealing of the JSON format in swift 3.
+6. IQKeyboardManger used to adjust the text field as the keyboard pops up for text entry.
+
+Misc:
+1. Moya
+
+
+Operator overloading and defining a new operator 
+http://www.codingexplorer.com/custom-operators-swift/
