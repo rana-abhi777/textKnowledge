@@ -1,0 +1,3 @@
+Always write the functionality of a function as comment helps a lot really!!!!
+
+Higher order functions like filter, map, reduce etc.
